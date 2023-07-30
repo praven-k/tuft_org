@@ -1,0 +1,73 @@
+.body {
+	text-align:center;
+    background-color:bisque;
+}
+.tuyy{
+	text-align:center;
+}
+.dropdown-content {
+  display: none;
+  position: left;
+  background-color: #f6f6f6;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 20px 16px;
+  font-size:18px;
+  z-index: 1;
+  font-family:sans-serif;
+  width :20%;
+  
+  
+}
+.dropdown {
+  top :0;
+  display: inline-block;
+  width:100%;
+  
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+
+
+
+.ee {
+	padding-top : 20px;
+	text-align : center;
+	font-family:sans-serif;
+}
+input[type = "text"] {
+	margin:1px solid green;
+	width:50%;
+	height:10%;
+	text-align:center;
+	
+	
+	display:inline-block;
+	font-size:18px;
+	border:2px solid #f6f6f6;
+	
+	border-radius:5px 5px 5px 5px;
+	background-color:#f6f6f6;
+	
+}
+.register {
+	width:19%;
+	
+	font-size:15px;
+	padding:14px;
+	background-color:white;
+	text-align:center;
+	border:2px solid blue;
+	opacity:0.8;
+	
+}
+.group {
+	padding:15px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition : all 0.5s ease-in-out;
+	-webkit-border-radius:5px 5px 5px 5px;
+}

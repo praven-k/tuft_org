@@ -1,0 +1,10 @@
+body {
+    
+    background-color:bisque;
+}
+.avatar {
+  
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+} 
